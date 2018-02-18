@@ -1,0 +1,17 @@
+<suite name="Scenarios Testing" parallel="tests">
+ 
+  <test name="on Firefox">
+<parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.GridTesting.FacebookTesting"/>
+    </classes>
+  </test>
+
+ <test name="on Chrome">
+<parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.GridTesting.FacebookTesting"/>
+    </classes>
+  </test>
+
+</suite>

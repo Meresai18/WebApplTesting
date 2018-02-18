@@ -1,0 +1,14 @@
+<suite name = "UshaFirstXML Gridtesting" parallel = "tests">
+
+<test name= "DataDriven Testing">
+   <Classes>
+      <class name ="com.DataDriven.NewUserRegistration_ExcelTD_ChromeBrowser"/>
+    </classes>
+</test>
+
+<test name="KeyWord Testing">
+   <classes>
+     <class name ="com.KeyWord.NewToursLogInTest"/>\
+     </classes>
+</test>
+</suite>

@@ -1,0 +1,8 @@
+<suite name="Scenarios Testing">
+  <test name="DataDriven Testing">
+    <classes>
+      <class name="com.DataDriven.NewUserRegistration_ExcelMultipleTestData"/>
+    </classes>
+  </test>
+</suite>
+	 

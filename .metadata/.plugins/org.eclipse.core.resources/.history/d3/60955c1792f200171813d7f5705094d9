@@ -1,0 +1,10 @@
+package com.Alert;
+
+public class HandlingAlert {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
